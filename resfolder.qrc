@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>DatabaseIcon.png</file>
+    <file>historyUser.png</file>
+    <file>window.png</file>
+    <file>DashBoard.png</file>
+    <file>Eq.png</file>
+    <file>sys.png</file>
+    <file>LoginIcon.png</file>
+  </qresource>
+  <qresource prefix="ui">
+    <file>DatabaseManagement.ui</file>
+    <file>DashBoard.ui</file>
+    <file>InventoryWindowTest.ui</file>
+    <file>InventoryWindow.ui</file>
+    <file>EqControl.ui</file>
+    <file>LoggerWindow.ui</file>
+    <file>Login.ui</file>
+  </qresource>
+  <qresource prefix="DashBoard">
+    <file>Database.png</file>
+    <file>LogDashBoard.png</file>
+    <file>PurchaseDashBoard.png</file>
+    <file>PlanDashBoard.png</file>
+    <file>ContractorDashBoard.png</file>
+    <file>InventoryDashBoard.png</file>
+    <file>EqDashBoard.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>restore.png</file>
+    <file>backup.png</file>
+    <file>language.png</file>
+    <file>vietnamFlat.png</file>
+    <file>americaFlat.png</file>
+    <file>japanFlat.png</file>
+    <file>edit.png</file>
+    <file>editRecord.png</file>
+    <file>login.png</file>
+    <file>delete.png</file>
+    <file>confirm.png</file>
+    <file>exit.png</file>
+    <file>exportExcel.png</file>
+    <file>insert.png</file>
+    <file>reset.png</file>
+    <file>search.png</file>
+    <file>return.png</file>
+    <file>upload.png</file>
+    <file>logo.png</file>
+    <file>map.png</file>
+    <file>pass.png</file>
+    <file>tel.png</file>
+    <file>user.png</file>
+  </qresource>
+</RCC>
